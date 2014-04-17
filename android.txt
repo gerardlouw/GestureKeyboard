@@ -1,0 +1,3 @@
+title=VKeyboard
+author=Gerard Louw
+orientation=landscape
